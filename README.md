@@ -3,9 +3,9 @@
 Software online, para gestão de  controles em clinicas
 
 #Integrantes
-Murilo Martins - 541168
-Robson Kumagai - 538371
-Gustavo Terto - 53111
+1 Murilo Martins - 541168
+2 Robson Kumagai - 538371
+3 Gustavo Terto - 53111
 
 #Ferramentas
 Visual Studio 2015
