@@ -17,12 +17,12 @@ SQL Server
 Asp.NET MVC 5
 
 #Conteudo do Software
-Cadastros : Medicos, Pacientes e Consultas.
-Consultas : Bulas e CID
-Sobre : Detalhes sobre o sistema
-Suporte Tecnico: Com download de acesso remoto
-Contatos : Nome dos integrantes
-Login
-Cadastro de Usuario
+- Cadastros : Medicos, Pacientes e Consultas.
+- Consultas : Bulas e CID
+- Sobre : Detalhes sobre o sistema
+- Suporte Tecnico: Com download de acesso remoto
+- Contatos : Nome dos integrantes
+- Login
+- Cadastro de Usuario
 
 
