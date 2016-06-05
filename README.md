@@ -1,24 +1,28 @@
 #Projeto Pacientex
 
-Software online, para gestão de  controles em clinicas
+Projeto de um sistema voltado para clinicas e consultorios
 
-#Integrantes
-1 Murilo Martins - 541168
-2 Robson Kumagai - 538371
-3 Gustavo Terto - 53111
+#Integrantes do grupo
+- Murilo Martins - 541168
+- Robson Kumagai - 538371
+- Gustavo Terto - 53111
 
 #Ferramentas
 Visual Studio 2015
 BootStrap
-Microsoft Azure
+Entity FramaWork
 SQL Server
 
-#Conteudo
-Cadastros : Medicos, Pacientes, Consultas, Administradores/Usuarios.
-Relatorios
-Contatos
-Bulas
-Consulta de CIDs
+#Linguagem:
+Asp.NET MVC 5
 
-#Site
-www.Pacientex.com.br
+#Conteudo do Software
+Cadastros : Medicos, Pacientes e Consultas.
+Consultas : Bulas e CID
+Sobre : Detalhes sobre o sistema
+Suporte Tecnico: Com download de acesso remoto
+Contatos : Nome dos integrantes
+Login
+Cadastro de Usuario
+
+
