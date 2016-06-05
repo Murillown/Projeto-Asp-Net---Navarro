@@ -8,10 +8,10 @@ Projeto de um sistema voltado para clinicas e consultorios
 - Gustavo Terto - 53111
 
 #Ferramentas
-Visual Studio 2015
-BootStrap
-Entity FramaWork
-SQL Server
+- Visual Studio 2015
+- Entity FramaWork
+- Bootstrap
+- MyServer
 
 #Linguagem:
 Asp.NET MVC 5
